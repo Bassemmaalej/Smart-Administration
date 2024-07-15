@@ -1,0 +1,87 @@
+.main2{
+    display: flex;
+    justify-content: center;
+    height: 550px ;
+    width: 500px;
+    left: 170px;
+    box-shadow: 11px 12px 13px 12px rgb(214, 205, 205);
+    margin-top: 80px;
+    margin-left:300px;
+    border-radius: 20px;
+    background-color: rgb(236, 20 , 20);
+    position: relative;
+} 
+.namecon{
+    display: flex;
+    height: 35px ;
+    width: 250px;
+    left: -590px;
+    bottom: -120px;
+    margin-top: 140px;
+    margin-left: 500px;
+    border-top-width: 0px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    position:absolute;
+}
+.titr{
+    display: flex;
+    height: 10px ;
+    width: 250px;
+    left: 100px;
+    top: 40px;
+    position:relative;
+
+}
+.Message{
+    display: flex;
+    height: 130px ;
+    width: 250px;
+    left: -590px;
+    bottom: -380px;
+    margin-top: 140px;
+    margin-left: 500px;
+    border-top-width: 0px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    position:absolute;
+
+}
+.Adressmail{
+    display: flex;
+    height: 35px ;
+    width: 250px;
+    left: -590px;
+    bottom: -200px;
+    margin-top: 140px;
+    margin-left: 500px;
+    border-top-width: 0px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+    border-left-width: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    position:absolute;
+
+}

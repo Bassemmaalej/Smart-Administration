@@ -1,0 +1,142 @@
+.ecole{
+    height: 51px;
+    width: 710px;
+    left: 100px;
+    bottom: -100px;
+    position: relative;
+}
+.esprit{
+    height: 59px;
+    width: 207px;
+    left: 570px;
+    bottom: -50px;
+    position: relative;
+}
+.Date{
+    height: 59px;
+    width: 207px;
+    left: 777px;
+    bottom: -150px;
+    position: relative;
+}
+.a{
+    height: 59px;
+    width: 400px;
+    left: 300px;
+    bottom: -200px;
+    position: relative;
+}
+.b{
+    height: 59px;
+    width: 400px;
+    left: 100px;
+    bottom: -300px;
+    position: relative;
+}
+.c{
+    height: 59px;
+    width: 400px;
+    left: 100px;
+    bottom: -275px;
+    position: relative;
+
+}
+.d{
+    height: 59px;
+    width: 777px;
+    left: 100px;
+    bottom: -300px;
+    position: relative;
+}
+.e{
+    height: 59px;
+    width: 777px;
+    left: 100px;
+    bottom: -320px;
+    position: relative;
+
+}
+.f{
+    height: 59px;
+    width: 777px;
+    left: 100px;
+    bottom: -340px;
+    position: relative;
+
+}
+.g{
+    height: 59px;
+    width: 777px;
+    left: 300px;
+    bottom: -360px;
+    position: relative;
+
+}
+.h{
+    height: 59px;
+    width: 777px;
+    left: 300px;
+    bottom: -340px;
+    position: relative;
+
+}
+.i{
+    height: 59px;
+    width: 777px;
+    left: 100px;
+    bottom: -340px;
+    position: relative;
+}
+.j{
+    height: 59px;
+    width: 777px;
+    left: 100px;
+    bottom: -315px;
+    position: relative;
+}
+.sign{
+    height: 113px;
+    width: 180px;
+    left: 680px;
+    bottom: -450px;
+    position: relative;
+}
+.bar{
+    height: 48px;
+    width: 540px;
+    left: 380px;
+    bottom: -500px;
+    position: relative;
+}
+.img{
+    height: 46px;
+    width: 420px;
+    left: 100px;
+    bottom: -450px;
+    position: relative;
+}
+.t{
+    width: 290px;
+    height: 50px;
+    right: 1000px;
+    bottom: -850px; 
+    position:absolute;
+    border-radius: 60px;
+    background-color:red;
+    color:white;
+    font-size: 25px;
+    border: none;
+}
+.RR{
+    width: 290px;
+    height: 50px;
+    right: 600px;
+    bottom: -850px; 
+    position:absolute;
+    border-radius: 60px;
+    background-color:red;
+    color:white;
+    font-size: 25px;
+    border: none;
+
+}
